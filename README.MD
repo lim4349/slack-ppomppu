@@ -9,7 +9,7 @@ Slack의 채널로 알려줍니다.
 
 사용법
 
-1. https://zeddios.tistory.com/123를 참고하여 원하는 채널에 webhook api등록
+1. https://zeddios.tistory.com/123 를 참고하여 원하는 채널에 webhook api등록
 
 2. token과 채널이름을 ppomppu.py에 입력
 
